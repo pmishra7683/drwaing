@@ -1,0 +1,41 @@
+body
+{
+    margin: 0px;
+    margin: 0px;
+    font-family: Arial, sans-serif;
+}
+#myCanvas
+{
+    background-color: #ddd;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+}
+
+table
+{
+    width: 100%;
+}
+
+#canvasImg
+{
+    width: 75%;
+    height: 75%
+}
+button
+{
+      background-color: #4CAF50; /* red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#btnClear
+{
+      background-color: #f44336; /* red */
+
+}
